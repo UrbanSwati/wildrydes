@@ -8,7 +8,7 @@ See the diagram below for a depiction of the complete architecture.
 
 
 
-[![img](https://community.bbd.co.za/wp-content/uploads/2018/10/wildrydes-complete-architecture-.png)](https://community.bbd.co.za/wp-content/uploads/2018/10/wildrydes-complete-architecture-.png)
+[![img](https://github.com/aws-samples/aws-serverless-workshops/blob/master/WebApplication/images/wildrydes-complete-architecture.png)
 
 ## Prerequisites
 
